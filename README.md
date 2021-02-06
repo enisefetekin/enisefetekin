@@ -3,7 +3,11 @@
 
 [![Discord](https://img.shields.io/discord/736188913613275196?label=Discord&logo=Discord)][discord]
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&count_private=true)
+![My Github Stats]
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
 
 ## I'm Student and Developer
 
@@ -13,6 +17,7 @@
 ### Contact With Me:
 
 [<img align="left" alt="Ryú | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+
 
 <br />
 
