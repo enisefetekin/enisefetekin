@@ -1,20 +1,20 @@
 
-### Hey, My name is Enis
+### Hey, My name is Enis 🎆
 
 [![Discord](https://img.shields.io/discord/736188913613275196?label=Discord&logo=Discord)][discord]
 
-![My Github Stats]
+### GitHub Stats And Top Languages 📌
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-## I'm Student and Developer
+## I'm Student and Developer 🎇
 
 - 💻 I'm currently focused on Javascript and Lua
 - 🤯 You can come to our discord server for some fun!
 
-### Contact With Me:
+### Contact With Me 🤙
 
 [<img align="left" alt="Ryú | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 
