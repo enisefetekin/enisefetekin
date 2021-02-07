@@ -5,8 +5,8 @@
 
 ### GitHub Stats And Top Languages 📌
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&count_private=true&hide=contribs,issues" alt="Enisizm Github STATS" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact&hide=html,css" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321" alt="Enisizm Github STATS" />
+  <img  src="https://github.com/anuraghazra/github-readme-stats" alt="My Top Langs" />
 </p>
 
 ## I'm Student and Developer 🎇
