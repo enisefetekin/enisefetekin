@@ -4,10 +4,9 @@
 [![Discord](https://img.shields.io/discord/736188913613275196?label=Discord&logo=Discord)][discord]
 
 ### GitHub Stats And Top Languages 📌
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark" alt="Enisizm Github STATS" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact" alt="My Top Langs" />
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm Student and Developer 🎇
 
