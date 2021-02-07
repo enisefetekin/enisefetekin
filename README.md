@@ -6,7 +6,7 @@
 ### GitHub Stats And Top Languages 📌
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark" alt="Enisizm Github STATS" />
-  <img  src="https://github.com/anuraghazra/github-readme-stats" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact" alt="My Top Langs" />
 </p>
 
 ## I'm Student and Developer 🎇
