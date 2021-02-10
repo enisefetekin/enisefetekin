@@ -5,7 +5,7 @@
 
 ### GitHub Stats And Top Languages 📌
 
-![Enisizm GitHub stats](https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark)
+![Enisizm](https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact&theme=dark)
 
