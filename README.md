@@ -34,4 +34,4 @@
 <br />
 <br />
 
-[discord]: https://discord.gg/ryu
+[discord]: https://discord.gg/https://discord.gg/BzD842cbxt
