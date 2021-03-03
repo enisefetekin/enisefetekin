@@ -34,4 +34,4 @@
 <br />
 <br />
 
-[discord]: https://discord.gg/BzD842cbxt
+[discord]: https://discord.gg/serendia
