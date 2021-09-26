@@ -1,7 +1,7 @@
 
 ### Hey, My name is Enis 🎆
 
-[![Discord](https://img.shields.io/discord/736188913613275196?label=Discord&logo=Discord)][discord]
+[![Discord](https://img.shields.io/discord/852993180445310997?label=Discord&logo=Discord)][discord]
 
 ### GitHub Stats And Top Languages 📌
 
