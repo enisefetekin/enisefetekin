@@ -3,6 +3,8 @@
 
 [![Discord](https://img.shields.io/discord/852993180445310997?label=Discord&logo=Discord)][discord]
 
+<a href="https://app.daily.dev/Enisizm"><img src="https://api.daily.dev/devcards/755965f908aa49699526a5ea446960ec.png?r=qkq" width="400" alt="Enis's Dev Card"/></a>
+
 ### GitHub Stats And Top Languages 📌
 
 ![Enisizm](https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark)
