@@ -3,8 +3,6 @@
 
 [![Discord](https://img.shields.io/discord/852993180445310997?label=Discord&logo=Discord)][discord]
 
-<a href="https://app.daily.dev/Enisizm"><img src="https://api.daily.dev/devcards/755965f908aa49699526a5ea446960ec.png?r=qkq" width="400" alt="Enis's Dev Card"/></a>
-
 ### GitHub Stats And Top Languages 📌
 
 ![Enisizm](https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark)
@@ -32,6 +30,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<a href="https://app.daily.dev/Enisizm"><img src="https://api.daily.dev/devcards/755965f908aa49699526a5ea446960ec.png?r=qkq" width="400" alt="Enis's Dev Card"/></a>
 
 <br />
 <br />
