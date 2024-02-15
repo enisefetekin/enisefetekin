@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact&theme=dark)
 
-<a href="https://app.daily.dev/Enisizm"><img src="https://api.daily.dev/devcards/755965f908aa49699526a5ea446960ec.png?r=qkq" width="400" alt="Enis's Dev Card"/></a>
+<a href="https://app.daily.dev/enisizm"><img src="https://api.daily.dev/devcards/v2/5uh9BVEAuuXPioiK0Nuvg.png?type=default&r=zk0" width="356" alt="Enis's Dev Card"/></a>
 
 ## I'm Student and Developer 🎇
 
