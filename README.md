@@ -1,7 +1,5 @@
 ### Hey, My name is Enis 🎆
 
-[![Discord](https://img.shields.io/discord/852993180445310997?label=Discord&logo=Discord)][discord]
-
 ### GitHub Stats And Top Languages 📌
 
 ![Enisizm](https://github-readme-stats.vercel.app/api?username=enisefetekin&show_icons=true&theme=dark)
