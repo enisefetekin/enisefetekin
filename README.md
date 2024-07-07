@@ -12,10 +12,9 @@
 
 ## I'm a Student and Developer 🎇
 
-- 💻 I'm currently focused on Javascript, Lua, and PHP
+- 💻 I'm currently focused on Javascript, Python, and PHP
 - 🤖 Exploring AI and Robotics
 - ♻️ Interested in Recycling Projects
-- 🌐 Building and deploying Next.js projects on Vercel
 - 🏋️‍♂️ Enthusiast in Wing Chun, Basketball, and Fitness
 
 ### Contact With Me 🤙
