@@ -4,9 +4,9 @@
 
 ### GitHub Stats And Top Languages 📌
 
-![Enisizm](https://github-readme-stats.vercel.app/api?username=Enisizm&show_icons=true&theme=dark)
+![Enisizm](https://github-readme-stats.vercel.app/api?username=enisefetekin&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enisizm&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enisefetekin&layout=compact&theme=dark)
 
 <a href="https://app.daily.dev/enisizm"><img src="https://api.daily.dev/devcards/v2/5uh9BVEAuuXPioiK0Nuvg.png?type=default&r=zk0" width="356" alt="Enis's Dev Card"/></a>
 
